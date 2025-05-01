@@ -18,13 +18,6 @@ I specialize in intelligent freight systems, modernizing transportation software
 
 ---
 
-## 🚀 Current Initiatives
-
-| Project | Focus |
-|--------|-------|
-| **📦 GPS Silo** | Real-time asset tracking and event-driven equipment visibility. |
----
-
 ## 🧰 Stack & Skills
 
 **Cloud & DevOps**  
@@ -44,9 +37,8 @@ I specialize in intelligent freight systems, modernizing transportation software
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rexwhitten)
-- 🐙 [GitHub](https://github.com/rexwhgittendcli) | [Personal](https://github.com/rexwhitten)  
-- 📧 rex.whitten@dcli.com _(for internal/team contacts)_  
-- 🌐 [Personal or DCLI Page (optional)](https://dcli.com)
+- 🐙 [GitHub](https://github.com/rexwhgittendcli) | [Personal](https://github.com/rexwhitten)
+- 🌐 [DCLI](https://dcli.com)
 
 ---
 

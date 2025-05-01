@@ -4,6 +4,7 @@
   <strong>Developing scalable, serverless 🌐 logistics systems with 🧠 AI, ⚙️ automation, and 🌍 global freight intelligence</strong>
 </p>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@rexwhitten/685e693d-7946-4771-a129-65763860f8b9.png" /></a>
 ---
 
 <embed src="https://wakatime.com/share/@rexwhitten/c5cf9fb2-51f5-4b84-aa4b-35205a3bc3df.svg"></embed>
@@ -15,7 +16,6 @@
 Hi, I'm **Rex Whitten**, a Tech Lead at **DCLI**, where I design and deliver modern, cloud-native logistics platforms.
 
 I specialize in intelligent freight systems, modernizing transportation software through event-driven design, serverless technologies, and AI-enabled automation. With deep experience in both infrastructure and application domains, I bridge architecture with implementation across siloed systems and complex ecosystems.
-
 ---
 
 ## 🧰 Stack & Skills
@@ -32,6 +32,7 @@ I specialize in intelligent freight systems, modernizing transportation software
 **Architecture Domains**  
 🏗️ Domain-Driven Design · 4+1 Views · C4 Model · Vertical Slicing · SAFe Feature Enablement
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@rexwhitten/2e1154cd-2a64-497c-93ce-9a06c06625ec.png"  /></a>
 ---
 
 ## 📫 Contact
